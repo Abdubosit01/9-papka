@@ -1,0 +1,44 @@
+h1{
+text-align: center;
+background-color: #311313;
+border: 1px solid black;
+height: 70px;
+width: 536px;
+color: white;
+padding-top: 22px;
+margin-left: 381px;
+
+}
+.man{
+    border: 10px solid red;
+width: 1000px;
+height: 700px;
+margin-left: 150px;
+margin-top: 103px;
+background-color: black;
+}
+.man div{
+background-color: rgb(0, 247, 255);
+width: 850px;
+border: 1px solid ;
+height: 250px;
+margin: 54px;
+margin-left: 35px;
+padding: 39px;
+height: 200px;
+
+font-size: 27px;
+}
+body{
+    background-color: rgb(30, 90, 117);
+}
+
+
+
+
+
+
+
+
+
+
